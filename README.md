@@ -24,7 +24,7 @@ I studied in IT 12 years ago. I decided to return to the IT sphere. I am studyin
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Enigmus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/SDNET" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://cssbattle.dev/player/enigmus" target="_blank" rel="noreferrer"><img src="https://cssbattle.dev/images/logo.svg" width="137" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Enigmus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/SDNET" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.codewars.com/users/Enigmus" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="32" height="32" /></a> <a href="https://cssbattle.dev/player/enigmus" target="_blank" rel="noreferrer"><img src="https://cssbattle.dev/images/logo.svg" width="137" height="32" /></a></p>
 
 ### Badges
 
